@@ -1,11 +1,11 @@
-# Projeto Segunda unidade da Disciplina de Programação de computadores  
+# Projeto segunda unidade da disciplina de Programação de Computadores  
 
 ### Professor: Judson S. Santiago
 
 ## Ferramentas e tecnologias
 - C++
 - Microsoft Visual Studio
-- Lógica de Programação
+- Programação Estrtural
 
 
 # Disciplina de Programação de computadores
