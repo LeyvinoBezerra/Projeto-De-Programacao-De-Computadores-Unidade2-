@@ -8,7 +8,7 @@
 - Programação Estrtural
 
 
-# Disciplina de Programação de computadores
+# Disciplina de Programação de Computadores
 ## Curso: Bacharel em Ciência da computação
 ## Universidade Federal Rural Do Semi-Àrido - Mossoró/ RN
 ## Author: Leyvino Bezerra
